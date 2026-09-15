@@ -1,0 +1,8 @@
+{
+  "logical_files": 2590,
+  "chunks": 2623,
+  "compressed_bytes": 635823017,
+  "policy_identity": "9f6419ed938acc187ca2138a9a39da936e58a80b542c1f9da96b515e6cdb48b4",
+  "checkpoint_sha256": "de381ff7e64e615489c34fe6925173dbd5d116386d45d1787e92c0c328feffe0",
+  "head_checkpoint_sha256": "b2d65045ecd21abc7a896ac6b12b13722ad857c2e17bd09376980050281f3b08"
+}

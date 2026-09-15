@@ -1,0 +1,315 @@
+{
+  "entry_modules": [
+    "snake_whole.full_policy_v105",
+    "snake_whole.full_fit_v96",
+    "snake_whole.full_readout_fit_v104",
+    "snake_whole.full_play_v105",
+    "scripts.prepare_data",
+    "tests.test_snake_whole_full_core_v88",
+    "tests.test_snake_whole_full_loss_v96",
+    "tests.test_snake_whole_full_decoder_v104",
+    "tests.test_snake_whole_full_recording_v91"
+  ],
+  "files": [
+    {
+      "source": "conditioning/prepare.py",
+      "file": "model/conditioning/prepare.py",
+      "sha256": "033ad69e2ff7914b4056c6782a9bac61c06bcd488af34a31f72f11adec3b7247"
+    },
+    {
+      "source": "scripts/prepare_data.py",
+      "file": "model/scripts/prepare_data.py",
+      "sha256": "9b065c750136d4851ee20cdf9d3d0ba41ffb88539a5119bf6750fc904ad3bc1a"
+    },
+    {
+      "source": "snake.py",
+      "file": "model/snake.py",
+      "sha256": "90df62a5b293bbf6461b0b46522ac17c86da70e78ec12a1400b086abe88b1926"
+    },
+    {
+      "source": "snake_whole/anatomy.py",
+      "file": "model/snake_whole/anatomy.py",
+      "sha256": "f0339644d6c29fd15a35b69c1eff8a5e5856e293a20ad48043858fce55a9c559"
+    },
+    {
+      "source": "snake_whole/common.py",
+      "file": "model/snake_whole/common.py",
+      "sha256": "6ebb54ed4aacb2e8d745b7c235cdd81a2a5554f78b2c6e5764f7c870eddc007b"
+    },
+    {
+      "source": "snake_whole/comparison_archive_v59.py",
+      "file": "model/snake_whole/comparison_archive_v59.py",
+      "sha256": "e2c746b05c4967d1b1dd14af79d9be0ac68007d7fe289d8255bd5008e5e5ab94"
+    },
+    {
+      "source": "snake_whole/comparison_contract_v59.py",
+      "file": "model/snake_whole/comparison_contract_v59.py",
+      "sha256": "b9316aec7070ed790ac7aecf023636c8c66e66b539b99e67d18a3a4f0a4eb476"
+    },
+    {
+      "source": "snake_whole/comparison_metrics_v59.py",
+      "file": "model/snake_whole/comparison_metrics_v59.py",
+      "sha256": "a786fbd4b990f59eea8ea8424f765409ea0a772ef8c8646a6196dc98da9df46d"
+    },
+    {
+      "source": "snake_whole/comparison_policy_v59.py",
+      "file": "model/snake_whole/comparison_policy_v59.py",
+      "sha256": "0daaf9961cd530ef83256aaded37a99fba393db7f8deb190440123a513b8251a"
+    },
+    {
+      "source": "snake_whole/corrective_contract_v73.py",
+      "file": "model/snake_whole/corrective_contract_v73.py",
+      "sha256": "7cae9409850088bc95109d182e009f8b4cff52e61456575769fe276897311d35"
+    },
+    {
+      "source": "snake_whole/fresh_contract_v74.py",
+      "file": "model/snake_whole/fresh_contract_v74.py",
+      "sha256": "8938fa22db3c60429dbf7b526d360326ef4c418bce3478cc0e096a2343b5e189"
+    },
+    {
+      "source": "snake_whole/full_checkpoint_v90b.py",
+      "file": "model/snake_whole/full_checkpoint_v90b.py",
+      "sha256": "413dbf9ff1ca0699e9857003eee619abb8806faad5cdb68ba70a096f82e74c1b"
+    },
+    {
+      "source": "snake_whole/full_core_v88.py",
+      "file": "model/snake_whole/full_core_v88.py",
+      "sha256": "456a80e4880d13b91ea69c7dbcbc924b70a37d2f2636f986a27b6162b3903506"
+    },
+    {
+      "source": "snake_whole/full_data_v91.py",
+      "file": "model/snake_whole/full_data_v91.py",
+      "sha256": "ffd79e6a9ab09b760b925a268539728dc1360127b576d041b191197e2865e55d"
+    },
+    {
+      "source": "snake_whole/full_data_v95.py",
+      "file": "model/snake_whole/full_data_v95.py",
+      "sha256": "ef5d1ddd6f106297bc0e6dfb0443436e14137f2d064ca1b922d8fa30ccec5f90"
+    },
+    {
+      "source": "snake_whole/full_data_v96.py",
+      "file": "model/snake_whole/full_data_v96.py",
+      "sha256": "efd9214c6bc294b92d62c67c4fc34b924bb375388fdb3cbf86ddbae59bb63405"
+    },
+    {
+      "source": "snake_whole/full_decoder_v104.py",
+      "file": "model/snake_whole/full_decoder_v104.py",
+      "sha256": "a6cb7dc9ac605d3b248f5ed6ffc15442113cfe6823689b37ccb347ccf211a651"
+    },
+    {
+      "source": "snake_whole/full_decoder_v92.py",
+      "file": "model/snake_whole/full_decoder_v92.py",
+      "sha256": "303cc5380f7baba0c84ecc891ae955ec104714b50d6bab05b53fce808a42d917"
+    },
+    {
+      "source": "snake_whole/full_diagnostic_v105.py",
+      "file": "model/snake_whole/full_diagnostic_v105.py",
+      "sha256": "1dac102b921abe3dd81fec11539b01f1818ed53c460c80984ca49d45a3a1c8c4"
+    },
+    {
+      "source": "snake_whole/full_diagnostic_v97.py",
+      "file": "model/snake_whole/full_diagnostic_v97.py",
+      "sha256": "09fe32a3e4fd18f8dd40fb60b1d6878f90fed3a03458b866e8ab23372911e8c3"
+    },
+    {
+      "source": "snake_whole/full_fit_v96.py",
+      "file": "model/snake_whole/full_fit_v96.py",
+      "sha256": "868ad7d67f9d94a0fa5517506b744b7c0b44b29980b4cd0ad36b5e442b8e5a5c"
+    },
+    {
+      "source": "snake_whole/full_initial_v91.py",
+      "file": "model/snake_whole/full_initial_v91.py",
+      "sha256": "bf984dae19e39dac50499df35286c34030a700d313d9f0e78e689ed9cfb4112d"
+    },
+    {
+      "source": "snake_whole/full_initial_v95.py",
+      "file": "model/snake_whole/full_initial_v95.py",
+      "sha256": "92031b610e01383ce3bdfddc57cb877b7eff60f583222abc52d13bdaf5725434"
+    },
+    {
+      "source": "snake_whole/full_initial_v96.py",
+      "file": "model/snake_whole/full_initial_v96.py",
+      "sha256": "c7c6b97cd1edf6b675a4f96b203ad10ed569c638e5c1922717eaa32111ba598f"
+    },
+    {
+      "source": "snake_whole/full_loss_v103.py",
+      "file": "model/snake_whole/full_loss_v103.py",
+      "sha256": "39698e51fc8f28c383e4fb15c42d900453d30c33e181cad881c37ca144b412ed"
+    },
+    {
+      "source": "snake_whole/full_loss_v96.py",
+      "file": "model/snake_whole/full_loss_v96.py",
+      "sha256": "045dc668b58cd2c02e043a0bcdbc0727367a699f9cded5100f05eff67b357df6"
+    },
+    {
+      "source": "snake_whole/full_metrics_v100.py",
+      "file": "model/snake_whole/full_metrics_v100.py",
+      "sha256": "0cb3216c78f7c7c99f8e953d43a350db6f183cae47e0d38819ff3b790544d3b5"
+    },
+    {
+      "source": "snake_whole/full_metrics_v103.py",
+      "file": "model/snake_whole/full_metrics_v103.py",
+      "sha256": "57340ed66d82f7fd7bb0a82d5864567be20ab7ce6552b643796aa09d82a6fd88"
+    },
+    {
+      "source": "snake_whole/full_metrics_v95.py",
+      "file": "model/snake_whole/full_metrics_v95.py",
+      "sha256": "18e601f2bacd7c01445f268490c324d1589d67a47ddb18593a64e773f7255d09"
+    },
+    {
+      "source": "snake_whole/full_metrics_v96.py",
+      "file": "model/snake_whole/full_metrics_v96.py",
+      "sha256": "451ac6f23ef3e39b56d947ed2e86335a4dc1ff66604500a187c7264c08dee65a"
+    },
+    {
+      "source": "snake_whole/full_metrics_v99.py",
+      "file": "model/snake_whole/full_metrics_v99.py",
+      "sha256": "52372fb50f1cd577cab4a4c6c9431631e0233e2210396cad5ae6672cf7e75eb9"
+    },
+    {
+      "source": "snake_whole/full_play_v105.py",
+      "file": "model/snake_whole/full_play_v105.py",
+      "sha256": "44f5c886ec74e2c0081d4b5522a4079c41e4a442f6bc68303fb679feb6ebb0d6"
+    },
+    {
+      "source": "snake_whole/full_policy_v105.py",
+      "file": "model/snake_whole/full_policy_v105.py",
+      "sha256": "98473a6cc27dc2ded29e07cabb7a5897d6b908b1a275865441293b0daf91b0f7"
+    },
+    {
+      "source": "snake_whole/full_policy_v90.py",
+      "file": "model/snake_whole/full_policy_v90.py",
+      "sha256": "75aaaa60b8de2663f52cb946eef8c7c8ffd6dbedf78eda43493746b93f931435"
+    },
+    {
+      "source": "snake_whole/full_policy_v97.py",
+      "file": "model/snake_whole/full_policy_v97.py",
+      "sha256": "7daa26a6a1ddc62d70c7e8a2486c51eda6f21d8f0e38df81db670a6bc83db578"
+    },
+    {
+      "source": "snake_whole/full_readout_fit_v104.py",
+      "file": "model/snake_whole/full_readout_fit_v104.py",
+      "sha256": "31fb28a19c8a3a18066247e4b4e54888465576d9b85fc712911e5bbadb251120"
+    },
+    {
+      "source": "snake_whole/full_recording_v89.py",
+      "file": "model/snake_whole/full_recording_v89.py",
+      "sha256": "7be4df0014ebc3a9904f2520a3cf58a4faec2a74dd2c69852d42f0d03398c6f4"
+    },
+    {
+      "source": "snake_whole/full_recording_v91.py",
+      "file": "model/snake_whole/full_recording_v91.py",
+      "sha256": "bbf34c575c0b0457f58c5deeaaa0c5264aa3a00953aa244e3758a2ae11ce2058"
+    },
+    {
+      "source": "snake_whole/full_training_v90.py",
+      "file": "model/snake_whole/full_training_v90.py",
+      "sha256": "f77c522d38996cbf49c50c50ec07b0919b36a814b0773a0f9be8f8ada28805a4"
+    },
+    {
+      "source": "snake_whole/full_training_v96.py",
+      "file": "model/snake_whole/full_training_v96.py",
+      "sha256": "f1b451959b802282ea92045fa69caedc5ba6761c002bc776e1c17ffd1009e409"
+    },
+    {
+      "source": "snake_whole/full_visual_v89.py",
+      "file": "model/snake_whole/full_visual_v89.py",
+      "sha256": "d851c2706a3d2f834325dc7f0b3145c58d85b9cf0becfc1551dabfed652f7b84"
+    },
+    {
+      "source": "snake_whole/gru_contract_v67.py",
+      "file": "model/snake_whole/gru_contract_v67.py",
+      "sha256": "93bc2398543bc8daff67366d099340cc013176a3a8ea2f92ebeddec0469a162e"
+    },
+    {
+      "source": "snake_whole/gru_model_v67.py",
+      "file": "model/snake_whole/gru_model_v67.py",
+      "sha256": "63e0b432c1b16245c317a5b71a8ec7e53ff47339ba39e3edd9216750fdf6064f"
+    },
+    {
+      "source": "snake_whole/perception_model_v80.py",
+      "file": "model/snake_whole/perception_model_v80.py",
+      "sha256": "8780844147185624bcaba57487341c68b057d169e8c8ce1178d95d70ba801ba3"
+    },
+    {
+      "source": "snake_whole/perception_model_v83.py",
+      "file": "model/snake_whole/perception_model_v83.py",
+      "sha256": "5184edf91011a8468d6c6d29913759c061642b1ad39133c31bf98994f1aa38f5"
+    },
+    {
+      "source": "snake_whole/perception_symmetry_v84.py",
+      "file": "model/snake_whole/perception_symmetry_v84.py",
+      "sha256": "be4f470d479dda2f5ec406bf7fac23990f7da3954a11de61c71e3694b5f95686"
+    },
+    {
+      "source": "snake_whole/reduced_model_v62.py",
+      "file": "model/snake_whole/reduced_model_v62.py",
+      "sha256": "2b18167f575fcc526ec454791da8f349ff535303bec1d0cff510fb2c7b75f7d0"
+    },
+    {
+      "source": "snake_whole/reduced_model_v63.py",
+      "file": "model/snake_whole/reduced_model_v63.py",
+      "sha256": "d1ad136b1fa77ed88905f59cd81e07344538f3dc615313ac34e1e92551528aac"
+    },
+    {
+      "source": "snake_whole/reduced_model_v66.py",
+      "file": "model/snake_whole/reduced_model_v66.py",
+      "sha256": "0c39b63a8f7ecb69dddaba022c27ef8165d42876566600361d06cb5bf0747825"
+    },
+    {
+      "source": "snake_whole/refinement_contract_v71.py",
+      "file": "model/snake_whole/refinement_contract_v71.py",
+      "sha256": "05b627a219c7aaca2263fde95d74ec9e988bc87f1ed918d187113307f439ebe5"
+    },
+    {
+      "source": "snake_whole/refinement_model_v71.py",
+      "file": "model/snake_whole/refinement_model_v71.py",
+      "sha256": "3349898e898c2669b5ce3a172def567f72e78ad15c9d4691d79a0dc5568375ff"
+    },
+    {
+      "source": "snake_whole/sequence_data_v64.py",
+      "file": "model/snake_whole/sequence_data_v64.py",
+      "sha256": "60789252a5ffc151c4c58bc5a23685ece9fb3aa873bfa4738738012157d5d839"
+    },
+    {
+      "source": "snake_whole/structured_contract_v69.py",
+      "file": "model/snake_whole/structured_contract_v69.py",
+      "sha256": "a949543047df4c594ad1816355ac8c9794d0d84aedaa64f246affa096a442385"
+    },
+    {
+      "source": "snake_whole/structured_model_v69.py",
+      "file": "model/snake_whole/structured_model_v69.py",
+      "sha256": "d9541bd0e22618abfc0465c0a60fb8ce806bb016d52f571e7911b2a5264a7b67"
+    },
+    {
+      "source": "snake_whole/structured_sensor_v69.py",
+      "file": "model/snake_whole/structured_sensor_v69.py",
+      "sha256": "1f8db0cae38ea6e0e85146f48264712cbaac0fbba3ba93396a72857b397a3acb"
+    },
+    {
+      "source": "snake_whole/visual_recording_v85.py",
+      "file": "model/snake_whole/visual_recording_v85.py",
+      "sha256": "f249f907d3a6c393d3ce10dc7ceba6265b2d623a56bdf2b5314eac2218e42475"
+    },
+    {
+      "source": "tests/test_snake_whole_full_core_v88.py",
+      "file": "model/tests/test_snake_whole_full_core_v88.py",
+      "sha256": "325ca1a699fe8fa5709f8669f30a4e720952c72820288d0b0172ba4cb4d87f35"
+    },
+    {
+      "source": "tests/test_snake_whole_full_decoder_v104.py",
+      "file": "model/tests/test_snake_whole_full_decoder_v104.py",
+      "sha256": "643c2db5b6627447686fc1eedfc0af5326b1216a930a9d25effdd5b47373df39"
+    },
+    {
+      "source": "tests/test_snake_whole_full_loss_v96.py",
+      "file": "model/tests/test_snake_whole_full_loss_v96.py",
+      "sha256": "b239836622179d72c8ae46af899868cde3936c14ed7855603c006e2c51ba3937"
+    },
+    {
+      "source": "tests/test_snake_whole_full_recording_v91.py",
+      "file": "model/tests/test_snake_whole_full_recording_v91.py",
+      "sha256": "70b6d9b0f9a0dc86de6dad8082d5519645030bd920c37fa70eaf386150e45008"
+    }
+  ]
+}

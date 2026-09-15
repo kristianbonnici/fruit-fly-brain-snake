@@ -1,0 +1,12 @@
+.DS_Store
+.cache/
+.venv/
+__pycache__/
+*.pyc
+model/data/
+model/raw/
+model/work/
+node_modules/
+*.part
+.env
+.env.*

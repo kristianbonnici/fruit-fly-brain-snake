@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite this software and the MaleCNS source dataset when using this project."
+title: "Fruit Fly Brain Snake"
+type: software
+version: 0.1.0
+license: MIT
+authors:
+  - name: "Fruit Fly Brain Snake contributors"
+abstract: "Interactive recorded Snake games and cell activity from an anatomy-constrained fruit fly neural network model trained with demonstrations."
