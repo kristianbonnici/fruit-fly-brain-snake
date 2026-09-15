@@ -2,13 +2,11 @@
 
 Explore recorded Snake games alongside the activity of a simulated neural network built from a fruit fly's mapped connections. Rotate the brain, inspect individual cells, highlight populations, and compare activity across decisions.
 
-[How the model works](docs/model.md) · [Results and limitations](docs/results.md) · [Research source guide](model/README.md)
+[Open the interactive demo](https://fruitfly-brain-snake.dynv6.net/) · [How the model works](docs/model.md) · [Results and limitations](docs/results.md) · [Research source guide](model/README.md)
 
 This is an anatomy-constrained engineering experiment with learned visual and action interfaces. It is not a recording of a living fly, a biologically validated brain emulation, or evidence that every simulated cell is necessary for the task. The website replays saved activity; it does not train or execute the policy.
 
 ![Snake replay and interactive brain activity](docs/images/viewer.png)
-
-This source release includes no hosted demo URL or default data-download host.
 
 ## Run the viewer
 

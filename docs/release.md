@@ -14,7 +14,7 @@ This is a new release repository assembled from the working viewer and selected 
 
 ## Publication boundary
 
-No old Git history, deployment account files, caches, raw datasets, training corpora, or binary checkpoints were copied into Git. This release includes neither a hosted demo URL nor a default data hostname. Downloads require a separately configured compatible host. The local review server can reuse an existing verified cache.
+No old Git history, deployment account files, caches, raw datasets, training corpora, or binary checkpoints were copied into Git. The README links to the public interactive demo. Local downloads require a separately configured compatible host; no default data hostname is embedded in the download code. The local review server can reuse an existing verified cache.
 
 This supports a runnable replay demo and inspectable model implementation. Full historical training reproduction is not supported: the original artifact chain is not bundled and some historical data was pruned. This is stated in the README and model guide.
 
