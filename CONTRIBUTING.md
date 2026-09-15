@@ -11,3 +11,7 @@ Keep large data, checkpoints, caches, local paths, tokens, and deployment accoun
 Research changes must distinguish anatomical evidence, modelling assumptions and measured results. Existing versioned source is retained for provenance; introduce and test a deliberate new version when changing the numerical model.
 
 Contributions to original code are accepted under the repository's MIT licence. Preserve third-party licence notices and data attribution.
+
+## Main development location
+
+This repository is the main home for viewer and visitor-facing development. Earlier research/prototype/deployment checkouts are retained separately as private archives. Make new UI changes here, rather than maintaining parallel copies. Bring research changes across as deliberate, tested updates with their provenance.
